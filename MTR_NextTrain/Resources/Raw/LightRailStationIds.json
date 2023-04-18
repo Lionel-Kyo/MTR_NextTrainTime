@@ -1,0 +1,274 @@
+{
+  "1": {
+    "En": "Tuen Mun Ferry Pier",
+    "Cn": "屯門碼頭"
+  },
+  "10": {
+    "En": "Melody Garden",
+    "Cn": "美樂"
+  },
+  "15": {
+    "En": "Butterfly",
+    "Cn": "蝴蝶"
+  },
+  "20": {
+    "En": "Light Rail Depot",
+    "Cn": "輕鐵車廠"
+  },
+  "30": {
+    "En": "Lung Mun",
+    "Cn": "龍門"
+  },
+  "40": {
+    "En": "Tsing Shan Tsuen",
+    "Cn": "青山村"
+  },
+  "50": {
+    "En": "Tsing Wun",
+    "Cn": "青雲"
+  },
+  "60": {
+    "En": "Kin On",
+    "Cn": "建安"
+  },
+  "70": {
+    "En": "Ho Tin",
+    "Cn": "河田"
+  },
+  "75": {
+    "En": "Choy Yee Bridge",
+    "Cn": "蔡意橋"
+  },
+  "80": {
+    "En": "Affluence",
+    "Cn": "澤豐"
+  },
+  "90": {
+    "En": "Tuen Mun Hospital",
+    "Cn": "屯門醫院"
+  },
+  "100": {
+    "En": "Siu Hong",
+    "Cn": "兆康"
+  },
+  "110": {
+    "En": "Kei Lun",
+    "Cn": "麒麟"
+  },
+  "120": {
+    "En": "Ching Chung",
+    "Cn": "青松"
+  },
+  "130": {
+    "En": "Kin Sang",
+    "Cn": "建生"
+  },
+  "140": {
+    "En": "Tin King",
+    "Cn": "田景"
+  },
+  "150": {
+    "En": "Leung King",
+    "Cn": "良景"
+  },
+  "160": {
+    "En": "San Wai",
+    "Cn": "新圍"
+  },
+  "170": {
+    "En": "Shek Pai",
+    "Cn": "石排"
+  },
+  "180": {
+    "En": "Shan King (North)",
+    "Cn": "山景 (北)"
+  },
+  "190": {
+    "En": "Shan King (South)",
+    "Cn": "山景 (南)"
+  },
+  "200": {
+    "En": "Ming Kum",
+    "Cn": "鳴琴"
+  },
+  "212": {
+    "En": "Tai Hing (North)",
+    "Cn": "大興 (北)"
+  },
+  "220": {
+    "En": "Tai Hing (South)",
+    "Cn": "大興 (南)"
+  },
+  "230": {
+    "En": "Ngan Wai",
+    "Cn": "銀圍"
+  },
+  "240": {
+    "En": "Siu Hei",
+    "Cn": "兆禧"
+  },
+  "250": {
+    "En": "Tuen Mun Swimming Pool",
+    "Cn": "屯門泳池"
+  },
+  "260": {
+    "En": "Goodview Garden",
+    "Cn": "豐景園"
+  },
+  "265": {
+    "En": "Siu Lun",
+    "Cn": "兆麟"
+  },
+  "270": {
+    "En": "On Ting",
+    "Cn": "安定"
+  },
+  "275": {
+    "En": "Yau Oi",
+    "Cn": "友愛"
+  },
+  "280": {
+    "En": "Town Centre",
+    "Cn": "市中心"
+  },
+  "295": {
+    "En": "Tuen Mun",
+    "Cn": "屯門"
+  },
+  "300": {
+    "En": "Pui To",
+    "Cn": "杯渡"
+  },
+  "310": {
+    "En": "Hoh Fuk Tong",
+    "Cn": "何福堂"
+  },
+  "320": {
+    "En": "San Hui",
+    "Cn": "新墟"
+  },
+  "330": {
+    "En": "Prime View",
+    "Cn": "景峰"
+  },
+  "340": {
+    "En": "Fung Tei",
+    "Cn": "鳳地"
+  },
+  "350": {
+    "En": "Lam Tei",
+    "Cn": "藍地"
+  },
+  "360": {
+    "En": "Nai Wai",
+    "Cn": "泥圍"
+  },
+  "370": {
+    "En": "Chung Uk Tsuen",
+    "Cn": "鍾屋村"
+  },
+  "380": {
+    "En": "Hung Shui Kiu",
+    "Cn": "洪水橋"
+  },
+  "390": {
+    "En": "Tong Fong Tsuen",
+    "Cn": "塘坊村"
+  },
+  "400": {
+    "En": "Ping Shan",
+    "Cn": "屏山"
+  },
+  "425": {
+    "En": "Hang Mei Tsuen",
+    "Cn": "坑尾村"
+  },
+  "430": {
+    "En": "Tin Shui Wai",
+    "Cn": "天水圍"
+  },
+  "435": {
+    "En": "Tin Tsz",
+    "Cn": "天慈"
+  },
+  "445": {
+    "En": "Tin Yiu",
+    "Cn": "天耀"
+  },
+  "448": {
+    "En": "Locwood",
+    "Cn": "樂湖"
+  },
+  "450": {
+    "En": "Tin Wu",
+    "Cn": "天湖"
+  },
+  "455": {
+    "En": "Ginza",
+    "Cn": "銀座"
+  },
+  "460": {
+    "En": "Tin Shui",
+    "Cn": "天瑞"
+  },
+  "468": {
+    "En": "Chung Fu",
+    "Cn": "頌富"
+  },
+  "480": {
+    "En": "Tin Fu",
+    "Cn": "天富"
+  },
+  "490": {
+    "En": "Chestwood",
+    "Cn": "翠湖"
+  },
+  "500": {
+    "En": "Tin Wing",
+    "Cn": "天榮"
+  },
+  "510": {
+    "En": "Tin Yuet",
+    "Cn": "天悅"
+  },
+  "520": {
+    "En": "Tin Sau",
+    "Cn": "天秀"
+  },
+  "530": {
+    "En": "Wetland Park",
+    "Cn": "濕地公園"
+  },
+  "540": {
+    "En": "Tin Heng",
+    "Cn": "天恒"
+  },
+  "550": {
+    "En": "Tin Yat",
+    "Cn": "天逸"
+  },
+  "560": {
+    "En": "Shui Pin Wai",
+    "Cn": "水邊圍"
+  },
+  "570": {
+    "En": "Fung Nin Road",
+    "Cn": "豐年路"
+  },
+  "580": {
+    "En": "Hong Lok Road",
+    "Cn": "康樂路"
+  },
+  "590": {
+    "En": "Tai Tong Road",
+    "Cn": "大棠路"
+  },
+  "600": {
+    "En": "Yuen Long",
+    "Cn": "元朗"
+  },
+  "920": {
+    "En": "Sam Shing",
+    "Cn": "三聖"
+  }
+}

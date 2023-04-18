@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MTR_NextTrain.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MTR_NextTrain"
+    Shell.FlyoutBehavior="Disabled">
+
+    <TabBar x:Name="Tabs" >
+
+        <Tab Title="LRT">
+            <ShellContent
+                Title="LRT Time"
+                ContentTemplate="{DataTemplate local:LrtPage}"
+                Route="MainPage" />
+        </Tab>
+        <Tab Title="MTR">
+            <ShellContent 
+                Title="MTR Time"
+                ContentTemplate="{DataTemplate local:MtrPage}" 
+                Route="MtrPage" />
+        </Tab>
+    </TabBar>
+
+</Shell>
